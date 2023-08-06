@@ -3,3 +3,4 @@
 <p style="color: red;">I've been <strong>supply teaching</strong> for the best part of the last 2 years. Before that, I was working in a warehouse with lots of <italic>loud conveyor</italic> belts running in the background.</p>
 <p>I've <br/>been <ins>meaning</ins> to learn to code for a while but the stress of teaching, though the kids were likeable and never dull, prohibited new information from being absorbed and <u>assimilated</u>.</p> 
 <p>I'm hoping that coding will lead to a career which has an introverted, thoughtful aspect to it compared with the extroverted processes that teaching 140+ kids a day requires.</p>
+<p>It’s all still pretty overwhelming. Sometimes,  I feel quite jealous of the YouTubers who admit it only took them 3 months to learn to code <strong>and</strong> land a job</p>
